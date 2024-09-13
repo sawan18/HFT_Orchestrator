@@ -1,0 +1,13 @@
+Symbol,Name,Active,Value,Volume,Algorithm,InitialTradeQuantity,PeakAdjustment
+KIRK,Kirkland,TRUE,100,,PriceTrend,10,0
+NOK,Nokia,TRUE,100,,PriceTrend,10,0
+CGC,Canopy Growth,TRUE,100,,PriceTrend,10,0
+PLUG,Plug Power,TRUE,100,,PriceTrend,10,0
+GOOG,Google,TRUE,10000,,PriceTrend,10,0
+AAP,Advanced Auto Parts,TRUE,10000,,PriceTrend,10,0
+MSFT,Microsoft,TRUE,10000,,PriceTrend,10,0
+FB,Facebook,TRUE,10000,,PriceTrend,10,0
+AAPL,Apple,TRUE,10000,,PriceTrend,10,0
+TSLA,Tesla,TRUE,10000,,PriceTrend,5,0
+AMZN,Amazon,TRUE,10000,,PriceTrend,10,0
+WMT,Walmart,TRUE,10000,,PriceTrend,10,0

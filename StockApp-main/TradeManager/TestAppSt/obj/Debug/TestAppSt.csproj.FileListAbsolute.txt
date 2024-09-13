@@ -1,0 +1,47 @@
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\bin\Debug\TestAppSt.exe.config
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\bin\Debug\TestAppSt.exe
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\bin\Debug\TestAppSt.pdb
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\bin\Debug\RestSharp.dll
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\bin\Debug\RestSharp.xml
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\obj\Debug\TestAppSt.csproj.CopyComplete
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\obj\Debug\TestAppSt.exe
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\obj\Debug\TestAppSt.pdb
+C:\Users\Benjamin.Eze\Source\Repos\TestAppSt\TestAppSt\obj\Debug\TestAppSt.csprojAssemblyReference.cache
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\obj\Debug\TestAppSt.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\obj\Debug\TestAppSt.exe
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\obj\Debug\TestAppSt.pdb
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\TestAppSt.exe.config
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\TestAppSt.exe
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\TestAppSt.pdb
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\RestSharp.dll
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\RestSharp.xml
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\obj\Debug\TestAppSt.csproj.CopyComplete
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\obj\Debug\TestAppSt.csprojAssemblyReference.cache
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\TdAmeritrade.dll
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\TdAmeritrade.pdb
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\TestAppSt\TestAppSt\bin\Debug\TdAmeritrade.dll.config
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\TestAppSt.exe.config
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\TestAppSt.exe
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\TestAppSt.pdb
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\RestSharp.dll
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\TdAmeritrade.dll
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\TdAmeritrade.pdb
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\TdAmeritrade.dll.config
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\bin\Debug\RestSharp.xml
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\obj\Debug\TestAppSt.csprojAssemblyReference.cache
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\obj\Debug\TestAppSt.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\obj\Debug\TestAppSt.csproj.CopyComplete
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\obj\Debug\TestAppSt.exe
+C:\Users\ezebe\OneDrive\Working Folder\Stock App\ClosedLoopApp\StockManager\TradeManager\TestAppSt\obj\Debug\TestAppSt.pdb

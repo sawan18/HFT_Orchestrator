@@ -1,0 +1,14 @@
+
+.vs/
+DataImportExport/bin/
+DataImportExport/obj/
+DataImportExportTest/bin/
+DataImportExportTest/obj/
+StockManager/bin/
+StockManager/obj/
+TradeManager/bin/
+TradeManager/obj/
+TradeManager/TdAmeritrade/bin/
+TradeManager/TdAmeritrade/obj/
+RunSettings/Data/
+RunSettings/Result/

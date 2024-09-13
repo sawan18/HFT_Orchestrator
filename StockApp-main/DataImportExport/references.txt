@@ -1,0 +1,2 @@
+..\dlls\Parat.Databases.dll
+..\dlls\Parat.Sessions.dll
